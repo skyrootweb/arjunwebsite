@@ -1,5 +1,5 @@
 // Typing effect
-const phrases=["Developing the next-gen AI & Web experiences","Learning. Building. Shipping.","B.Tech AIML student with big ideas"];
+const phrases=["Developing the next-gen AI & Web experiences","Learning. Building. Shipping.","B.Tech AIML student "];
 let p=0,c=0,del=false;const el=document.getElementById('typed');
 function type(){
   const t=phrases[p];
